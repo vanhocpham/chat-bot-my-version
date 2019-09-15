@@ -1,0 +1,26 @@
+{
+  "name": "chat-bot-my-version",
+  "version": "1.0.0",
+  "description": "chatbot facebook using cookie, config for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoc-anms/chat-bot-my-version.git"
+  },
+  "keywords": [
+    "chatbot",
+    "facebook",
+    "auto",
+    "it",
+    "tool"
+  ],
+  "author": "hoc-anms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoc-anms/chat-bot-my-version/issues"
+  },
+  "homepage": "https://github.com/hoc-anms/chat-bot-my-version#readme"
+}
